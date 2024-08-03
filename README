@@ -1,0 +1,18 @@
+NAME: Usanase Babrah Esther
+Id : 25523 
+
+
+
+
+  QUESTION 1 : Logging is the process of recording information about the execution of a program or system.
+  QUESTION 2 : Logging is important because it helps diagnose and troubleshoot issues, 
+  monitor system performance, ensure security through audit trails, and comply with regulatory requirements.
+  It provides essential insights into application behavior and system health, enabling quick response to problems and informed decision-making.
+
+  Question  2 : Logging levels categorize the severity and importance of log messages:
+
+DEBUG: Detailed information for debugging, usually disabled in production.
+INFO: General information about application operations.
+WARNING: Indicates potential issues or unexpected events.
+ERROR: Serious problems that require immediate attention.
+FATAL: Critical errors causing program termination.
